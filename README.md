@@ -2,7 +2,7 @@
 
 Cute quick Cheat Console that I use on most of my projects. 
 
-
+Drag the script and license to your project.
 
 
 Utilize
